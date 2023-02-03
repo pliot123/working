@@ -1,0 +1,54 @@
+
+
+.createButton {
+  right: 0;
+  margin-bottom: 5px;
+}
+
+.boardUl {
+  border-collapse: collapse;
+  width: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+.boardUl li {
+  border: 0px solid black;
+  padding: 8px;
+  cursor: pointer;
+  list-style: none;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+/* .boardUl li div {
+  background-color: #eee;
+} */
+
+.blue {
+  background-color: blue;
+}
+
+.white {
+  background-color: white;
+}
+
+.odd {
+  background-color: white;
+}
+
+.even {
+  background-color: rgb(187, 187, 187);
+}
+
+.confirm {
+  cursor: default;
+  color: rgb(109, 109, 109);
+  font-weight: bold;
+}
+
+.pagination {
+  color: white;
+}
+

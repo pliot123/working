@@ -1,0 +1,8 @@
+.lobby {
+  display: flex;
+  flex-wrap: nowrap;
+}
+
+hr {
+  width: 100%;
+}

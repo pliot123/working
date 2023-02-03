@@ -1,0 +1,28 @@
+/* Navigation Bar Styles */
+
+nav {
+  background-color: rgba(45, 46, 6, 0.75);
+  color: #fff;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  height: 70px;
+}
+
+nav div {
+  color: #333;
+  text-decoration: none;
+  display: flex;
+  align-items: center;
+  margin-right: 10px;
+}
+
+nav a {
+  margin: 0 10px;
+  color: #fff;
+  text-decoration: none;
+}
+
+nav img {
+  height: 70px;
+}
